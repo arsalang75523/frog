@@ -1,0 +1,19 @@
+{
+    "git.autofetch": true,
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.followTagsWhenSync": true,
+    "git.ignoreLimitWarning": true,
+    "git.ignoreRebaseWarning": true,
+    "git.ignoreSubmodules": true,
+    "git.inputValidation": true,
+    "git.mergeEditor": true,
+    "git.pruneOnFetch": true,
+    "git.pullBeforeCheckout": true,
+    "git.showPushSuccessNotification": true,
+    "git.supportCancellation": true,
+    "github.experimental.multipleAccounts": true,
+    "github-enterprise.uri": "https://github.com/users/arsalang75523/projects"
+}
