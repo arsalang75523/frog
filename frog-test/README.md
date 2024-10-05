@@ -1,4 +1,6 @@
 ```
+echo "# frog" >> README.md
+
 npm install
 npm run dev
 ```
